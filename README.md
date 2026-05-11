@@ -3,7 +3,7 @@
 Turn public health data into clear, actionable insights.
 
 ## 🔧 What’s Included
-= Power BI Dashboard Image (.png)
+- Power BI Dashboard Image (.png)
 - Power BI Dashboard (.PBIX)
 - Reusable Template (.PBIT)
 - Structured Dataset (Excel)
