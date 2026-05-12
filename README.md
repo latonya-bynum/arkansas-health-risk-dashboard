@@ -21,3 +21,6 @@ Turn public health data into clear, actionable insights.
 
 ## Created by
 LaTonya Bynum, MPH, MCHES
+
+### Recent Updates
+- Standardized dashboard terminology ("County" → "Counties") for clarity and consistency
