@@ -2,7 +2,7 @@
 
 Turn public health data into clear, actionable insights.
 
-## 🔧 What’s Included
+## What’s Included
 - Power BI Dashboard Image (.png)
 - Power BI Dashboard (.PBIX)
 - Reusable Template (.PBIT)
@@ -10,14 +10,14 @@ Turn public health data into clear, actionable insights.
 - Data Dictionary
 - Dashboard Guide (PDF)
 
-## 🎯 What This Helps You Do
+## What This Helps You Do
 - Identify high-risk counties
 - Support grant writing
 - Build decision-ready dashboards
 - Translate data into action
 
-## 💼 Get the Full Version
+## Get the Full Version
 👉 https://latonyabynum.gumroad.com/l/wytmldl
 
-## 👤 Created by
+## Created by
 LaTonya Bynum, MPH, MCHES
